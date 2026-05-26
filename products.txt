@@ -5,3 +5,6 @@ Keyboard    600         210
 Mouse       350         300
 Monitor     10000       90
 CPU         25000       80
+Headphones  1500        45
+Battery     800         67
+Smart watch 2000        87

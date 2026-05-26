@@ -1,0 +1,5 @@
+Customer Name       Product         Address
+Abhiram             Laptop          Hyderabad
+Jaideep             Headphones      Nalgonda
+Harshitha           Keyboard        Suryapet
+Varsha              Monitor         Hyderabad
