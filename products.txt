@@ -1,0 +1,7 @@
+Name        Price       Quantity-Available
+Laptop      60000       25
+Mobile      25000       50
+Keyboard    600         210
+Mouse       350         300
+Monitor     10000       90
+CPU         25000       80
